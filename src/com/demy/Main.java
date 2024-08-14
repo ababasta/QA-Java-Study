@@ -7,5 +7,6 @@ public class Main {
         String greetings = "Hello world string";
         System.out.println(greetings);
         System.out.println("New remote commit string test");
+        System.out.println("Another New remote commit string test");
     }
 }
